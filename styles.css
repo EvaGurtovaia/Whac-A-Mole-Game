@@ -11,6 +11,11 @@
     border: solid black 1px;
 }
 
+.button {
+    margin-bottom: 20px;
+    background-color: aquamarine;
+}
+
 .mole {
     background-color: aquamarine;
 }
